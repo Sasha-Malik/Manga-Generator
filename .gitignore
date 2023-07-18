@@ -2,3 +2,5 @@
 archive/
 archive2/
 venv/
+generator_model/
+generated_images/
